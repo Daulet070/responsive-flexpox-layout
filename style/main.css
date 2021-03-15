@@ -53,9 +53,7 @@ section {
 
 img {
     display: block;
-    /* width: 250px; */
     max-width: 100%;
-    /* height: 250px; */
 }
 
 .container {
@@ -64,7 +62,7 @@ img {
 }
 
 .container-narrow {
-    min-width: 34rem;
+    max-width: 34rem;
 }
 
 .text-center {
